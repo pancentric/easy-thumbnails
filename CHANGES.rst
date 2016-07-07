@@ -1,6 +1,12 @@
 Changes
 =======
 
+1.5.1 (2016-07-07)
+------------------
+
+* Patch to increase models.File.name max_length to 1023
+
+
 1.5
 ---
 
